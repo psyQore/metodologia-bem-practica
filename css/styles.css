@@ -122,6 +122,11 @@ img {
   font-weight: 900;
   margin: 0;
 }
+/* Bloque__Elemento--Modificador (BEM) */
+.product__price--offer {
+  color: red;
+  text-decoration: line-through;
+}
 .product__button {
   all: unset;
   background-color: var(--azul);
